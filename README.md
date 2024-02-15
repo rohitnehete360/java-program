@@ -1,2 +1,6 @@
 # main.java
-I developed this number system game using java.
+completed
+Task 1
+ This is a Number Game Created For CodSoft Internship.
+ 
+ 
